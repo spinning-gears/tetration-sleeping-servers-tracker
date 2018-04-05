@@ -7,7 +7,7 @@ This Tetration User App (PySpark) finds servers with a supeciously low network a
 This User App (as always) runs in the context of a Scope of servers, that are supposed to run full visibility software sensor.
 
 ### Usage
-Some configuration have to be provided like your Tetration cluster IPs, threshold percentage, how many days of traffic to look at. *This can take a while to run* (5, 10 minutes) depending on the load of your cluster and the number of days it looks at.
+Some configuration has to be provided like your Tetration cluster IPs, threshold percentage, how many days of traffic to look at. *This can take a while to run* (5, 10 minutes) depending on the load of your cluster and the number of days it looks at.
 
 The .py file is only for your reference, the .ipynb (Jupyter notebook) file has to be imported into Tetration User App module
 
@@ -19,5 +19,6 @@ The .py file is only for your reference, the .ipynb (Jupyter notebook) file has 
 ```
 
 ### Related information
+- Cisco Tetration Analytics: https://www.cisco.com/go/tetration
 - PySpark: https://spark.apache.org/docs/1.6.2/api/python/index.html
 - Pandas: http://pandas.pydata.org/pandas-docs/stable/
