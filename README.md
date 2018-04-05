@@ -13,9 +13,11 @@ The .py file is only for your reference, the .ipynb (Jupyter notebook) file has 
 
 ### Sample output
 #### Please note that these are lab workloads running on purpose
+```
 10.49.166.84 seems inactive, Tetration flows are: 99.9% RX 100.0% TX
 10.49.166.87 seems active, Tetration flows are: 2.0% RX 1.5% TX
+```
 
 ### Related information
-PySpark: https://spark.apache.org/docs/1.6.2/api/python/index.html
-Pandas: http://pandas.pydata.org/pandas-docs/stable/
+- PySpark: https://spark.apache.org/docs/1.6.2/api/python/index.html
+- Pandas: http://pandas.pydata.org/pandas-docs/stable/
